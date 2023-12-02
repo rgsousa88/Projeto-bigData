@@ -1,2 +1,9 @@
-# Projeto-bigData
-O projeto descrito nesse repositório teve como objetivo extrair alguns insights de uma base de dados real de inventário de uma companhia multinacional.
+# Projeto Interdisciplinas - Disciplina Tecnologias de Big Data
+Este é o repositório do projeto final da disciplina Tecnologias de Big Data do curso de pós-graduação em Ciência de Dados do Instituto Federal de São Paulo - Campus Campinas.
+O projeto propõe o desenvolvimento de uma solução completa (end-to-end) de dados usando ferramentas da AWS.
+
+**Tema do projeto:** Engenharia de dados no apoio à tomada de decisão em processo de inventário.
+
+**Alunos:** Lucas da Silva Lima (CP3021882) e Ridley Gadelha de Sousa (CP3021921)
+
+**Requisitos de projeto:**
