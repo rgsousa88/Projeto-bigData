@@ -6,4 +6,4 @@ O projeto propõe o desenvolvimento de uma solução completa (end-to-end) de da
 
 **Alunos:** Lucas da Silva Lima (CP3021882) e Ridley Gadelha de Sousa (CP3021921)
 
-**Requisitos de projeto:** https://github.com/LucasLima-py/Projeto-bigData/tree/main/Requisitos
+**Requisitos de projeto:** [*Descrição dos requisitos*](./Requisitos) 
