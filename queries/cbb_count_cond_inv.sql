@@ -1,0 +1,5 @@
+SELECT CBBTABLE.cbb_codinv as CODINV,
+	COUNT(CBBTABLE.cbb_codinv) as CONT
+FROM "cleaned-cbb" as CBBTABLE
+GROUP BY CBBTABLE.cbb_codinv
+ORDER BY CONT DESC
