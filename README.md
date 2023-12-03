@@ -34,6 +34,8 @@ A revolução das ferramentas de nuvem tem sido um fator chave na transformaçã
 ## Amazon Web Services (AWS)
 A Amazon Web Services (AWS) é uma plataforma de computação em nuvem que oferece uma ampla variedade de serviços globais baseados em nuvem, incluindo computação, armazenamento, bancos de dados, análise, redes, dispositivos móveis, ferramentas de desenvolvimento, ferramentas de gerenciamento, IoT, segurança e aplicativos empresariais. A AWS fornece mais de 200 serviços, como data warehousing, ferramentas de implantação, diretórios e entrega de conteúdo, que podem ser provisionados rapidamente, sem despesas de capital inicial, permitindo que empresas de todos os tamanhos tenham acesso aos componentes básicos necessários para atender rapidamente às necessidades dinâmicas dos negócios [*1*](https://docs.aws.amazon.com/pt_br/whitepapers/latest/aws-overview/introduction.html)
 
+##
+
 Este estudo tem como objetivo empregar um caso logístico real como cenário para a aplicação prática dos métodos e recursos da Amazon Web Services (AWS) apresentados durante as aulas. Busca-se, assim, a oportunidade de efetivar e utilizar, de maneira concreta, as funcionalidades desta ferramenta no contexto logístico. Este enfoque prático proporciona uma aplicação tangível dos conhecimentos teóricos adquiridos em sala de aula, enriquecendo a compreensão dos conceitos abordados e fornecendo insights valiosos sobre a eficácia da AWS em situações do mundo real. Essa abordagem, fundamentada na interseção entre a teoria e a prática, almeja aprimorar a capacidade dos participantes em traduzir o conhecimento acadêmico em soluções efetivas para desafios logísticos reais.
 
 # Descrição dos dados <a id='descri'></a> 
